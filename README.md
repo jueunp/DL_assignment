@@ -6,7 +6,6 @@ This repository contains three small demos built with Hugging Face foundation mo
 2. Open-vocabulary detection
 3. Vision-language chat
 
-The goal of this project is to compare how different vision foundation models behave on real images rather than only reading about them.
 
 ## Repository Structure
 
@@ -188,6 +187,3 @@ All scripts are standalone and can be run from the command line. To reproduce re
 2. Prepare an image
 3. Run any of the three scripts with your own inputs
 
-## Submission Note
-
-The assignment screenshot says the GitHub link submission was due on April 20 at 9:00 A.M. If you still need to submit, the remaining step is to push this folder to a GitHub repository and submit that repository link.
